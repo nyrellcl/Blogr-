@@ -27,6 +27,36 @@
   --vd-dark-desat-blue: hsl(237, 23%, 32%);
 }
 
+.main-container{
+  padding: 1.5rem 4rem;
+}
+
+.bg-container{
+  background-image: url('./images/bg-pattern-intro-desktop.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1.5rem 0;
+  width: 100%;
+}
+
+.log-sign{
+  display: flex;
+  justify-content: flex-end;
+} 
+
+.sign-up{
+  margin-left: 0.74rem;
+}
+  
+  
+  
+
 
 
   
