@@ -55,9 +55,16 @@ ul.nav-list {
   text-decoration: none;
 }
 
+.log-sign {
+    justify-content: flex-end;
+    display: flex;
+    width: 100%;
+}
+
 .sign-up{
   margin-left: 0.74rem;
 }
+
   
   
   
