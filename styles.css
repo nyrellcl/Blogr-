@@ -134,7 +134,7 @@ ul.nav-list {
   align-items: center;
 }
 
-button.btn-1 {
+.btn-1 {
   background-color: white;
   padding: 1.25rem;
   border-radius: 2rem;
@@ -142,9 +142,10 @@ button.btn-1 {
   font-family: 'Overpass', sans-serif;
   color: var(--light-red);
   font-weight: 600;
+  border: none;
 }
   
-button.btn-2 {
+.btn-2 {
   margin-left: 2rem;
   background-color: transparent;
   padding: 1.25rem;
