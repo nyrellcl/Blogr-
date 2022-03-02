@@ -74,8 +74,20 @@ ul.nav-list {
   font-weight: 600;
 }
 
+.log-sign a{
+  text-decoration: none;
+}
+
+.log-in{
+  color: white;
+}
+
 .sign-up{
   margin-left: 0.74rem;
+  background-color: white;
+  border-radius: 2.5rem;
+  padding: 0.7rem 1.5rem 0.8rem 1.5rem;
+  color: var(--light-red);
 }
 
 .blogr-container{
