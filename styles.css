@@ -101,7 +101,30 @@ ul.nav-list {
   font-size: 2rem;
   font-weight: 600;
 }
-  
+
+/*title section*/
+
+.title-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1.5rem;
+}
+
+.title{
+  font-family: 'Overpass', sans-serif;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.title-text{
+  color: white;
+  font-family: 'Overpass', sans-serif;
+   margin-top: 1rem;
+  text-align: center;
+}
 
   
   
