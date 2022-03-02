@@ -126,6 +126,11 @@ ul.nav-list {
   text-align: center;
 }
 
+.btn-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
   
   
   
