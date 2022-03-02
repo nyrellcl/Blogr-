@@ -68,6 +68,13 @@ ul.nav-list {
 .blogr-container{
   display: flex;
 }
+
+.blogr{
+  text-decoration: none;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  font-size: 1rem;
+}
   
 
   
