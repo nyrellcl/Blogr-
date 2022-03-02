@@ -27,22 +27,22 @@
   --vd-dark-desat-blue: hsl(237, 23%, 32%);
 }
 
-.main-container{
-  padding: 1.5rem 4rem;
-}
-
 .bg-container{
   background-image: url('./images/bg-pattern-intro-desktop.svg');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
+  background-position: left;
+  background-color: hsl(13, 100%, 72%);
+  height: 50vh;
+  border-bottom-left-radius: 6rem;
 }
 
 .nav-bar {
+    padding: 1.5rem 4rem;
+}
+
+.nav-list{
   display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  padding: 1.5rem 0;
-  width: 100%;
 }
 
 .log-sign{
