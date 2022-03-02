@@ -127,12 +127,33 @@ ul.nav-list {
   text-align: center;
 }
 
+/*buttons*/
 .btn-container{
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
+button.btn-1 {
+  background-color: white;
+  padding: 1.25rem;
+  border-radius: 2rem;
+  cursor: pointer;
+  font-family: 'Overpass', sans-serif;
+  color: var(--light-red);
+  font-weight: 600;
+}
   
+button.btn-2 {
+  margin-left: 2rem;
+  background-color: transparent;
+  padding: 1.25rem;
+  border-radius: 2rem;
+  font-family: 'Overpass', sans-serif;
+  font-weight: 600;
+  border-color: white;
+  color: white;
+}
   
   
 
