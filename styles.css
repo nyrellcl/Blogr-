@@ -60,7 +60,7 @@ ul.nav-list {
   text-decoration: none;
 }
 
-.nav-list li {
+.nav-list a {
   margin-right: 3rem;
   color: white;
 }
