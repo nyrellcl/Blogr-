@@ -242,7 +242,7 @@ ul.nav-list {
 /*infrastructure grid*/
 
 .infra-container{
-  background: url('./images/bg-pattern-circles.svg') center no-repeat var(--vd-dark-desat-blue);
+  background: url('./images/bg-pattern-circles.svg') center no-repeat var(--very-dark-blue);
   border-bottom-left-radius: 6rem;
 }
 
