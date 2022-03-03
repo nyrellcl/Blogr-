@@ -191,6 +191,23 @@ ul.nav-list {
   font-family: 'Overpass', sans-serif;
   font-weight: 600;
 }
+
+.design-grid{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(2, auto);
+}
+
+.introduce{
+  display: grid;
+  grid-column-start: 2;
+  grid-row: 1 / 2;
+}
+
+
   
   
   
