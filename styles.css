@@ -4,6 +4,7 @@
 *{
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 
@@ -199,12 +200,20 @@ ul.nav-list {
   width: 100%;
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(2, auto);
+  grid-gap: 6rem;
 }
 
 .introduce{
   display: grid;
   grid-column-start: 1;
   grid-row: 1 / 2;
+}
+
+.intro-heading{
+  padding-bottom: 2rem;
+}
+.intro-details{
+  line-height: 1.5rem;
 }
 
 .editor{
@@ -214,6 +223,9 @@ ul.nav-list {
   width: 100%;
 }
 
+.editor img{
+  width: 560px;
+}
 
   
   
