@@ -239,6 +239,32 @@ ul.nav-list {
   width: 560px;
 }
 
+/*infrastructure grid*/
+
+.infra-container{
+  background: url('./images/bg-pattern-circles.svg') center no-repeat var(--vd-dark-desat-blue);
+  border-bottom-left-radius: 6rem;
+}
+
+.infra-grid{
+  display: grid;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: auto;
+  padding: 5rem;
+}
+
+.phones{
+  grid-column-start: 1;
+}
+
+.state{
+  grid-column-start: 2;
+}
+  
+  
   
   
   
