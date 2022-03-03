@@ -263,7 +263,7 @@ ul.nav-list {
 }
 
 .phones{
-  grid-column: 1 / span 2;
+  grid-column: 1 / 2;
   z-index: 10;
 }
 
