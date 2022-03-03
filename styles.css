@@ -204,6 +204,8 @@ ul.nav-list {
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(2, auto);
   grid-gap: 6rem;
+  padding: 5rem;
+  
 }
 
 .introduce{
@@ -227,7 +229,7 @@ ul.nav-list {
 .editor{
   display: grid;
   grid-column-start: 2;
-  grid-row: 2 / 2;
+  grid-row: 1 / 2;
   width: 100%;
 }
 
