@@ -179,7 +179,18 @@ ul.nav-list {
 
 /*Designed for the future*/
 
+.design-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1.5rem;
+}
+
 .design{
+  font-size: 1.5rem;
+  font-family: 'Overpass', sans-serif;
+  font-weight: 600;
+}
   
   
   
