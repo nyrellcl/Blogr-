@@ -258,7 +258,7 @@ ul.nav-list {
 }
 
 .circle-pattern{
-  grid-column: 1/2;
+  grid-column: 1/ span 2;
 }
 
 .phones{
