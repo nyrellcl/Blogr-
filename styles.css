@@ -243,6 +243,11 @@ ul.nav-list {
 
 .infra-container{
   background-color: var(--very-dark-blue);
+  background-image: url('./images/bg-pattern-circles.svg');
+  background-size: 625px;
+  background-repeat: no-repeat;
+  background-position: 50% -250px;
+  position: relative;
   border-bottom-left-radius: 6rem;
   height: 40vh;
 }
@@ -257,13 +262,9 @@ ul.nav-list {
   padding: 5rem;
 }
 
-.circle-pattern{
-  grid-column: 1/ span 2;
-}
-
 .phones{
-  grid-column-start: 1;
-  z-index: 1;
+  grid-column: 1 / span 2;
+  z-index: 10;
 }
 
 .state{
