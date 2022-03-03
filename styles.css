@@ -90,6 +90,12 @@ ul.nav-list {
   color: var(--light-red);
 }
 
+.sign-up:hover{
+  backgrounfd-color: tansparent;
+  border: 2px solid white;
+  color: white;
+}
+
 .blogr-container{
   display: flex;
 }
