@@ -224,6 +224,7 @@ ul.nav-list {
   line-height: 1.5rem;
   font-family: 'Overpass', sans-serif;
   color: var(--grayish-blue);
+  padding-bottom: 3rem;
 }
 
 .editor{
