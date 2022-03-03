@@ -164,7 +164,7 @@ ul.nav-list {
   border-radius: 2rem;
   font-family: 'Overpass', sans-serif;
   font-weight: 600;
-  border-color: white;
+  border: 2px solid white;
   color: white;
   cursor: pointer;
 }
