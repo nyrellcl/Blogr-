@@ -241,7 +241,7 @@ ul.nav-list {
 
 /*infrastructure grid*/
 
-.infra-container{
+/*.infra-container{
   background-color: var(--very-dark-blue);
   background-image: url('./images/bg-pattern-circles.svg');
   background-size: 625px;
@@ -260,16 +260,23 @@ ul.nav-list {
   grid-template-columns: repeat(2, auto);
   grid-template-rows: auto;
   padding: 5rem;
-}
+}*/
 
 .phones{
-  grid-column: 1 / 2;
-  z-index: 10;
+ background-color: var(--very-dark-blue);
+ background-image: url(./images/bg-pattern-circles.svg);
+ background-size: 625px;
+ background-repeat: no-repeat;
+ background-position: 50% -250px;
+ height: 400px;
+ position: relative;
+ border-bottom-left-radius: 6rem;
+ border-top-right-radius: 6rem
 }
 
-.state{
+/*.state{
   grid-column-start: 2;
-}
+}*/
   
   
   
