@@ -100,6 +100,7 @@ ul.nav-list {
 
 .blogr-container{
   display: flex;
+  width: 25%;
 }
 
 .blogr{
