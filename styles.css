@@ -144,6 +144,12 @@ ul.nav-list {
   font-weight: 600;
   border: none;
 }
+
+.btn-1:hover {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+}
   
 .btn-2 {
   margin-left: 2rem;
@@ -154,6 +160,7 @@ ul.nav-list {
   font-weight: 600;
   border-color: white;
   color: white;
+  cursor: pointer;
 }
   
   
