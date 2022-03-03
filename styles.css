@@ -207,6 +207,12 @@ ul.nav-list {
   grid-row: 1 / 2;
 }
 
+.editor{
+  display: grid;
+  grid-column-start: 2;
+  grid-row: 2 / 2;
+}
+
 
   
   
