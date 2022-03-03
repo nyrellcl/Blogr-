@@ -242,7 +242,7 @@ ul.nav-list {
 /*infrastructure grid*/
 
 .infra-container{
-  background: url('./images/bg-pattern-circles.svg') center no-repeat var(--very-dark-blue);
+  background-color: var(--very-dark-blue);
   border-bottom-left-radius: 6rem;
 }
 
@@ -256,8 +256,13 @@ ul.nav-list {
   padding: 5rem;
 }
 
+.circle-pattern{
+  grid-column: 1/2;
+}
+
 .phones{
   grid-column-start: 1;
+  z-index: 1;
 }
 
 .state{
