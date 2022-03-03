@@ -156,6 +156,13 @@ ul.nav-list {
   color: white;
   border: 2px solid white;
 }
+
+.btn-2:hover {
+    background-color: white;
+    color: var(--very-light-red);
+}
+
+
   
 .btn-2 {
   margin-left: 2rem;
