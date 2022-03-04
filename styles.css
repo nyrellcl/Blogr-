@@ -316,6 +316,7 @@ ul.nav-list {
   width: 100%;
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(1, auto);
+  margin-top: 8rem;
 }
 
 .laptop{
