@@ -222,7 +222,7 @@ ul.nav-list {
   color: var(--very-dark-blue);
 }
 .intro-details{
-  line-height: 1.5rem;
+  line-height: 2rem;
   font-family: 'Overpass', sans-serif;
   color: var(--grayish-blue);
   padding-bottom: 3rem;
@@ -343,6 +343,7 @@ ul.nav-list {
   margin-bottom: 3rem;
   padding-right: 2rem;
   color: var(--grayish-blue);
+  line-height: 2rem;
 
 }
   
