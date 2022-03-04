@@ -286,12 +286,12 @@ ul.nav-list {
 .descript-container{
   display: flex;
   justify-content: flex-end;
-  flex-direction: column;
   width: 100%;
+  place-items: center;
+  height: 100%;
 }
 
 #description {
-  z-index: 10;
   width: 50%;
 }
 
