@@ -331,10 +331,12 @@ ul.nav-list {
 .info-details{
   grid-column-start: 2;
   grid-row-start: 1;
+  font-family: 'Overpass', sans-serif;
 }
 
 .simple-title {
-    margin-bottom: 3rem;
+  margin-bottom: 3rem;
+  color: var(--very-dark-blue);
 }
 
 .simple-details {
