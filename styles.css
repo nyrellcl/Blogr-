@@ -323,6 +323,9 @@ ul.nav-list {
   grid-row-start: 1;
 }
 
+.laptop-image{
+}
+
 .info-details{
   grid-column-start: 2;
   grid-row-start: 1;
