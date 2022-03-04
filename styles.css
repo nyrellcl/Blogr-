@@ -295,8 +295,7 @@ ul.nav-list {
   width: 50%;
 }
 
-state-title {
-  margin-bottom: 4rem;
+.state-title {
   color: white;
   font-family: 'Overpass', sans-serif; 
 }
