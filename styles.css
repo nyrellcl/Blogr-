@@ -10,7 +10,7 @@
 
 :root{
   /*Primary Colors*/
-  --light-red: hsl(356, 100%, 66%); /*CTA text*/
+  --light-red: hsl(356, 100%, 65%); /*CTA text*/
   --very-light-red: hsl(355, 100%, 74%); /*CTA hover background*/
   --very-dark-blue: hsl(208, 49%, 24%);
   
@@ -33,7 +33,7 @@
   background-repeat: no-repeat;
   background-size: 2100px;
   background-position: 18% -800px
-  background-color: var(--v-light-red);
+  background-color: var(--light-red);
   height: 50vh;
   border-bottom-left-radius: 6rem;
 }
