@@ -283,6 +283,18 @@ ul.nav-list {
   width: 400px;
 }
 
+.descript-container{
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  width: 100%;
+}
+
+#description {
+  z-index: 10;
+  width: 50%;
+}
+
 /*.state{
   grid-column-start: 2;
 }*/
