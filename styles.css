@@ -295,6 +295,16 @@ ul.nav-list {
   width: 50%;
 }
 
+state-title {
+  margin-bottom: 4rem;
+  color: white;
+  font-family: 'Overpass', sans-serif; 
+}
+
+.state-details {
+  padding: 1.5rem 0;
+}
+
 /*.state{
   grid-column-start: 2;
 }*/
