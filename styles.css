@@ -292,7 +292,8 @@ ul.nav-list {
 }
 
 #description {
-  width: 50%;
+  width: 48%;
+  padding-right: 1rem;
 }
 
 .state-title {
@@ -302,6 +303,8 @@ ul.nav-list {
 
 .state-details {
   padding: 1.5rem 0;
+  font-family: 'Overpass', sans-serif;
+  color: white;
 }
 
 /*.state{
