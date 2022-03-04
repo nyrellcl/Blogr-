@@ -305,6 +305,7 @@ ul.nav-list {
   padding: 1.5rem 0;
   font-family: 'Overpass', sans-serif;
   color: white;
+  line-height: 2rem;
 }
 
 /*INFO GRID SECTION*/
@@ -326,6 +327,7 @@ ul.nav-list {
 
 .laptop-image{
   width: 100%;
+  display: grid;
 }
 
 .info-details{
