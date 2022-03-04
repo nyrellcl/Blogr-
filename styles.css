@@ -21,7 +21,7 @@
   
   /*Gradient Background gradient intro/CTA mobile nav*/
   --v-light-red: hsl(13, 100%, 72%);
-  --light-red: hsl(353, 100%, 62%);
+  --cta-light-red: hsl(353, 100%, 62%);
   
   /*bg gradient body*/
   --vd-gray-blue: hsl(237, 17%, 21%);
