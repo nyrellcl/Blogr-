@@ -307,10 +307,26 @@ ul.nav-list {
   color: white;
 }
 
-/*.state{
+/*INFO GRID SECTION*/
+
+.info-grid{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(1, auto);
+}
+
+.laptop{
+  grid-column-start: 1;
+  grid-row-start: 1;
+}
+
+.info-details{
   grid-column-start: 2;
-}*/
-  
+  grid-row-start: 1;
+}
   
   
   
