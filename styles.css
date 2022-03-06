@@ -123,7 +123,7 @@ ul.nav-list {
 }
 
 .title{
-  font-family: 'Overpass', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   color: white;
   font-size: 3rem;
   font-weight: 600;
@@ -348,6 +348,30 @@ ul.nav-list {
   line-height: 2rem;
 
 }
+
+/*FOOTER*/
+
+.footer-container{
+  background-color: var(--very-dark-black-blue);
+  width: 100%;
+  height: 50vh;
+  border-top-right-radius: 6rem;
+}
+
+.footer-title-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+
+.footer-title{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+  color: white;
+}
+  
   
   
   
