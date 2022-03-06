@@ -27,9 +27,6 @@
   --vd-gray-blue: hsl(237, 17%, 21%);
   --vd-dark-desat-blue: hsl(237, 23%, 32%);
 }
-.body-copy{
-  background-color: var(--very-dark-grayish-blue);
-}
 
 .bg-container{
   background-image: url('./images/bg-pattern-intro-desktop.svg');
