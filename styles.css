@@ -406,6 +406,8 @@ ul.nav-list {
   font-family: 'Ubuntu', sans-serif;
   color: var(--grayish-blue);
   margin-top: 1rem;
+  display: flex;
+  justify-content: center;
 }
   
   
