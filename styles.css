@@ -27,6 +27,9 @@
   --vd-gray-blue: hsl(237, 17%, 21%);
   --vd-dark-desat-blue: hsl(237, 23%, 32%);
 }
+.body-copy{
+  background-color: var(--very-dark-grayish-blue);
+}
 
 .bg-container{
   background-image: url('./images/bg-pattern-intro-desktop.svg');
@@ -360,10 +363,13 @@ ul.nav-list {
 
 .footer-title-container{
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: flex-end;
+  align-items: flex-end;
   margin-top: 2rem;
   margin-left: 2rem;
+  height: 25%;
+  width: 15%;
+  font-size: 1.5rem;
 }
 
 .footer-title{
@@ -371,6 +377,40 @@ ul.nav-list {
   font-weight: 700;
   color: white;
 }
+
+/*Footer Products*/
+
+.product-company-connect-container{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.footer-titles{
+  font-family: 'Ubuntu', sans-serif;
+  color: var(--grayish-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.footer-lists{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-list-items{
+  font-family: 'Ubuntu', sans-serif;
+  color: var(--grayish-blue);
+  margin-top: 1rem;
+}
+  
   
   
   
