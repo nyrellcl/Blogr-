@@ -624,6 +624,13 @@
   width: 100%;
 }
   
+  /*footer mobile*/
+  
+  .footer-title-container {
+    width: 100%;
+    justify-content: center;
+}
+  
 }
   
   
