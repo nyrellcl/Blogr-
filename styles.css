@@ -584,6 +584,17 @@
     display: none;
   }
   
+  .absolute {
+    top: 1800px;
+}
+  .phones {
+    height: 80vh;
+    text-align: center;
+}
+  .descript-container {
+    justify-content: center;
+}
+  
 }
   
   
