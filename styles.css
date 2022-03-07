@@ -589,18 +589,31 @@
   }
   
   .absolute {
-    top: 1800px;
+    top: 2050px;
 }
   .phones {
     height: 80vh;
     text-align: center;
+    background-size: 750px;
+    background-position: 50% -300px;
+    margin-top: 10rem;
 }
   .descript-container {
     justify-content: center;
+    align-items: center;
 }
   .state-title {
-    font-size: 2rem;
+    font-size: 2.4rem;
 }
+  
+  .state-details{
+    font-size: 1.2rem;
+  }
+  #description{
+    margin-top: 10rem;
+    padding: 1rem;
+  }
+      
   /*info grid*/
   
   .info-grid{
@@ -624,6 +637,7 @@
   display: block;
   width: 100%;
 }
+  
   
   /*footer mobile*/
   
