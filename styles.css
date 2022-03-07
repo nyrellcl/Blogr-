@@ -549,12 +549,23 @@
   .design-grid{
     grid-template-columns: auto;
     grid-template-rows: repeat(2,auto);
+    padding: 2rem 0;
   }
   
   .introduce{
     grid-column-start: 1;
     grid-row-start: 2;
+    text-align: center;
   } 
+  
+  .intro-details {
+    padding: 1rem 3rem;
+  }
+  
+  .intro-heading {
+    font-size: 2rem;
+    padding: 1rem 4rem;
+}
   
   .editor{
     grid-column-start: 1;
