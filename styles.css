@@ -405,6 +405,14 @@ ul.nav-list {
   display: flex;
   justify-content: flex-start;
 }
+
+.footer-list-items a{
+  text-decoration: none;
+}
+
+.footer-list-items a:hover{
+  text-decoration: underline;
+}
   
   
   
