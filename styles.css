@@ -441,11 +441,14 @@
 
 .footer-list-items a{
   text-decoration: none;
+    color: var(--grayish-blue);
+
 }
 
 .footer-list-items a:hover{
-  text-decoration: underline;
+  text-decoration: underline from-font white;
   cursor: pointer;
+  
 }
   
   
