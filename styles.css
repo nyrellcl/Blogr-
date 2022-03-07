@@ -52,7 +52,7 @@
 }
 
 .dropdown:hover{
-  text-decoration: underline;
+  text-decoration: underline white from-font;
   cursor: pointer;
 }
 
