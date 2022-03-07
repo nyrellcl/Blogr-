@@ -589,7 +589,7 @@
   }
   
   .absolute {
-    top: 2050px;
+    top: 2000px;
 }
   .phones {
     height: 80vh;
@@ -603,7 +603,7 @@
     align-items: center;
 }
   .state-title {
-    font-size: 2.4rem;
+    font-size: 2rem;
 }
   
   .state-details{
