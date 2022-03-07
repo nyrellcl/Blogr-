@@ -39,7 +39,7 @@
 }
 
 .nav-bar {
-  padding: 1.5rem 4rem;
+  padding: 2rem;
   display: flex;
   
 }
@@ -47,7 +47,7 @@
 .dropdown{
   display: flex;
   justify-content: center;
-  width: 15%;
+  width: 20%;
   align-items: center;
 }
 
