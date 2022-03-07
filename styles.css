@@ -57,7 +57,10 @@
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  top: 60px;
+  
 }
 
 .dropdown-content {
@@ -65,13 +68,23 @@
   position: absolute;
   z-index: 1;
   min-width: 160px
+  background-color: white;
+  border-radius: 20px;
+  padding: 1rem;
+  top: 80px;
+  margin: 10px 0 20px;
 }
 
 .dropdown-content a{
   text-decoration: none;
   margin-right: 3rem;
-  color: white;
-  padding: 1rem 2rem;
+  padding: 0.4rem;
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+}
+
+.dropdown-content a:hover{
+  font-weight: bold;
 }
 
 .btn-drop{
