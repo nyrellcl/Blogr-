@@ -589,7 +589,7 @@
   }
   
   .absolute {
-    top: 2000px;
+    top: 1880px;
 }
   .phones {
     height: 80vh;
@@ -678,6 +678,13 @@
   
 }
   
+
+@media only screen and (max-width: 390px){
+  .absolute {
+    top: 1980px;
+    left: -10px;
+  }
+}
   
   
   
