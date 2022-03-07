@@ -51,6 +51,22 @@
   align-items: center;
 }
 
+.dropdown:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  min-width: 160px
+}
+
 .dropdown-content a{
   text-decoration: none;
   margin-right: 3rem;
@@ -62,6 +78,9 @@
   font-weight: 600;
   color: white;
   background-color: transparent;
+  border: none;
+  outline: none;
+  
 }
 
 .log-sign {
