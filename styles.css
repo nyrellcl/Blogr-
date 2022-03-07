@@ -651,9 +651,27 @@
   /*footer mobile*/
   
   .footer-title-container {
-    width: 100%;
     justify-content: center;
+    align-items: flex-start;
+    height: 100px;
 }
+  .footer-container{
+    height: 100%;
+  }
+  
+  .product-company-connect-container{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .footer-titles{
+    justify-content: center;
+  }
+  
+  .footer-list-items{
+    justify-content: center;
+  }
   
 }
   
