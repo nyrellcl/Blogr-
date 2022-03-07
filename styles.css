@@ -553,12 +553,12 @@
   
   .introduce{
     grid-column-start: 1;
-    grid-row-start: 1;
+    grid-row-start: 2;
   } 
   
   .editor{
     grid-column-start: 1;
-    grid-row-start: 2;
+    grid-row-start: 1;
   }
   
 }
