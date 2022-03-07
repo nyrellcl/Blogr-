@@ -515,7 +515,7 @@
     display: block;
   }
   
-  header{
+  .nav-bar{
     display: none;
   }
 }
