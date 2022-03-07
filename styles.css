@@ -594,6 +594,9 @@
   .descript-container {
     justify-content: center;
 }
+  .state-title {
+    font-size: 2rem;
+}
   
 }
   
