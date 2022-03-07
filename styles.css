@@ -269,8 +269,12 @@
   width: 100%;
 }
 
-.editor img{
+.editor-desktop-img{
   width: 560px;
+}
+
+.editor-mobile-img{
+  display: none;
 }
 
 /*infrastructure grid*/
@@ -570,6 +574,14 @@
   .editor{
     grid-column-start: 1;
     grid-row-start: 1;
+  }
+  .editor-mobile-img{
+    display: block;
+    width: 100%;
+}
+  
+  .editor-desktop-img{
+    display: none;
   }
   
 }
