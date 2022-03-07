@@ -668,6 +668,9 @@
   .footer-titles{
     justify-content: center;
   }
+  .footer-lists{
+    margin-bottom: 3rem;
+  }
   
   .footer-list-items{
     justify-content: center;
