@@ -44,26 +44,24 @@
   
 }
 
-.nav-list{
+.dropdown{
   display: flex;
   justify-content: center;
   width: 100%;
   align-items: center;
-  font-family: 'Ubuntu', sans-serif;
-  font-weight: 600;
 }
 
-ul.nav-list {
-    list-style: none;
-}
-
-.nav-list a{
+.dropdown-content a{
   text-decoration: none;
-}
-
-.nav-list a {
   margin-right: 3rem;
   color: white;
+}
+
+.btn-drop{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 600;
+  color: white;
+  background-color: transparent;
 }
 
 .log-sign {
@@ -412,6 +410,7 @@ ul.nav-list {
 
 .footer-list-items a:hover{
   text-decoration: underline;
+  cursor: pointer;
 }
   
   
