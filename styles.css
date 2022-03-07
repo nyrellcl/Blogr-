@@ -47,7 +47,7 @@
 .dropdown{
   display: flex;
   justify-content: center;
-  width: 100%;
+  width: 50%;
   align-items: center;
 }
 
@@ -71,6 +71,7 @@
   text-decoration: none;
   margin-right: 3rem;
   color: white;
+  padding: 1rem 2rem;
 }
 
 .btn-drop{
