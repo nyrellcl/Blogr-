@@ -157,7 +157,7 @@
 }
 
 .title{
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Overpass', sans-serif;
   color: white;
   font-size: 3rem;
   font-weight: 600;
@@ -513,11 +513,54 @@
 @media screen and (max-width: 500px){
   #ham-icon{
     display: block;
+    margin-right: 2rem;
+  }
+  
+  .ham-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+  }
+  
+  .blogr {
+    margin-left: 2rem;
+}
+  
+  .title-container{
+    margin-top: 6rem;
+    padding: 1rem;
+}
+  
+  .title{
+  font-family: 'Overpass', sans-serif;
+  font-weight: 300;
+}
+  
+  .bg-container{
+    height: 80vh;
   }
   
   .nav-bar{
     display: none;
   }
+  
+  /*design grid*/
+  
+  .design-grid{
+    grid-template-columns: auto;
+    grid-template-rows: repeat(2,auto);
+  }
+  
+  .introduce{
+    grid-column-start: 1;
+    grid-row-start: 1;
+  } 
+  
+  .editor{
+    grid-column-start: 1;
+    grid-row-start: 2;
+  }
+  
 }
   
   
