@@ -613,6 +613,7 @@
   .info-details{
   grid-column-start: 1;
   grid-row-start: 2;
+  text-align: center;
 }
   
   .laptop-image-desktop{
