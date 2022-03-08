@@ -393,7 +393,7 @@
 /*FOOTER*/
 
 .footer-container{
-  background-color: var(--very-dark-black-blue);
+  background-color: var(--vd-gray-blue);
   width: 100%;
   margin-top: 4rem;
   height: 50vh;
