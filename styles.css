@@ -733,7 +733,7 @@
   display: block;
   position: relative;
   line-height: 30px;
-  border-right:#CCC 1px solid;
+  margin-top: 2rem;
 }
 
 .parent a{
