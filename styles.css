@@ -682,9 +682,22 @@
 
 @media only screen and (max-width: 390px){
   .absolute {
-    top: 1880px;
+    top: 1945px;
     left: -10px;
   }
+  
+  .phones {
+    height: 100vh;
+}
+  
+  .state-title{
+    font-size: 1.65rem;
+  }
+  
+  .simple-details {
+    margin: 2rem;
+}
+  
 }
   
   
