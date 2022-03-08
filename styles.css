@@ -694,12 +694,12 @@
 
 @media only screen and (max-width: 390px){
   .absolute {
-    top: 1895px;
+    top: 1915px;
     left: -10px;
   }
   
   .phones {
-    height: 100vh;
+    height: 110vh;
 }
   
   .state-title{
