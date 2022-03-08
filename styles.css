@@ -694,7 +694,7 @@
 
 @media only screen and (max-width: 390px){
   .absolute {
-    top: 2060px;
+    top: 1895px;
     left: -10px;
   }
   
@@ -717,6 +717,10 @@
   .btn-1, .btn-2{
     margin-top: 0;
   }
+  .cell-phone {
+    width: 380px;
+}
+  
   
 }
   
