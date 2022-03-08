@@ -258,7 +258,7 @@
 .intro-details{
   line-height: 2rem;
   font-family: 'Overpass', sans-serif;
-  color: var(--grayish-blue);
+  color: var(--very-dark-blue);
   padding-bottom: 3rem;
 }
 
@@ -385,7 +385,7 @@
 .simple-details {
   margin-bottom: 3rem;
   padding-right: 2rem;
-  color: var(--grayish-blue);
+  color: var(--very-dark-blue);
   line-height: 2rem;
 
 }
