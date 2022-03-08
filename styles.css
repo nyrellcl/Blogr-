@@ -419,9 +419,7 @@
   display: flex;
   justify-content: space-evenly;
   align-items: baseline;
-  margin-right: 2rem;
-  margin-bottom: 2rem;
-  margin-top: 4rem;
+  height: 100%;
 }
 
 .footer-titles{
