@@ -578,6 +578,7 @@
   
   .intro-details {
     padding: 1rem 3rem;
+    font-size: 1.2rem;
   }
   
   .intro-heading {
@@ -599,7 +600,7 @@
   }
   
   .absolute {
-    top: 2090px;
+    top: 2140px;
 }
   .phones {
     height: 80vh;
@@ -693,7 +694,7 @@
 
 @media only screen and (max-width: 390px){
   .absolute {
-    top: 1945px;
+    top: 2060px;
     left: -10px;
   }
   
