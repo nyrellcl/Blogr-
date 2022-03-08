@@ -589,7 +589,7 @@
   }
   
   .absolute {
-    top: 1880px;
+    top: 2090px;
 }
   .phones {
     height: 80vh;
@@ -645,6 +645,7 @@
   
   .simple-details{
     font-size: 1.2rem;
+    padding: 0;
   }
   
   
