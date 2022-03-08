@@ -530,6 +530,10 @@
     margin-top: 2rem;
   }
   
+  .btn-1, .btn-2 {
+    margin-top: 2rem;
+}
+  
   .blogr {
     margin-left: 2rem;
 }
@@ -543,6 +547,12 @@
   font-family: 'Overpass', sans-serif;
   font-weight: 300;
 }
+  
+  .title-text{
+    font-size: 1.5rem;
+    margin: 1.5rem;
+  }
+  
   
   .bg-container{
     height: 80vh;
@@ -698,6 +708,14 @@
   .simple-details {
     margin: 2rem;
 }
+  
+  .title-container{
+    margin-top: 1.5rem;
+  }
+  
+  .btn-1, .btn-2{
+    margin-top: 0;
+  }
   
 }
   
